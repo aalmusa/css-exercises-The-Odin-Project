@@ -1,0 +1,9 @@
+.oddStyle{
+    background-color: rgb(148, 98, 107);
+    font-family: 'Verdana','DejaVu Sans','sans-serif';
+}
+
+#num2Id {
+    color: rgb(8, 8, 162);
+    font-size: 36px;
+}
