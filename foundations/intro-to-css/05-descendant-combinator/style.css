@@ -4,3 +4,14 @@
     font-size: 20px;
     text-align: center;
 }
+
+/* rule 1 */
+.subsection {
+    color: blue;
+  }
+  
+  /* rule 2 */
+  .main .list {
+    color: red;
+  }
+  
